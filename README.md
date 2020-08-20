@@ -1,5 +1,5 @@
-#GeneToken/WadCoin/BitBase/FHe m.Bit
+#GeneToken/WadCoinBitBase/FHe m.Bit
 
 
 
-FHe m.Dollar/La Token...
+FHe $m\La Token
